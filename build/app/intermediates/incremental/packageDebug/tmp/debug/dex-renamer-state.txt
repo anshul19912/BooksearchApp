@@ -1,0 +1,4 @@
+#Sat Nov 20 01:06:29 IST 2021
+base.0=/media/anshul19912/New Volume/Coding/Flutter Practice/booksearchapp/booksearchapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
